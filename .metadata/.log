@@ -1835,3 +1835,15 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-13 19:46:58.626
 !MESSAGE executing callback sts4.classpath.BcTxXhrI SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-13 20:22:24.635
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.BcTxXhrI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-13 20:22:24.636
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.BcTxXhrI
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-13 20:22:24.637
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-13 20:22:24.638
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.BcTxXhrI => OK
